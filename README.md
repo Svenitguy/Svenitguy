@@ -24,7 +24,7 @@ I recently completed a full-time **VDAB System Administrator training (2024–20
 
 Since then, I’ve been actively building **real-world cloud and infrastructure projects** using Azure and self-learning advanced cloud concepts.
 
-My long-term focus is to grow into a:
+My long-term focus is to grow into a:  
 👉 Cloud Engineer (Azure)  
 👉 Infrastructure / Security Engineer  
 👉 IaC & Automation specialist (Terraform / Bicep / PowerShell)
@@ -93,7 +93,7 @@ Result: Strong practical experience in infrastructure and troubleshooting
 - TryHackMe (cybersecurity basics)
 - Codecademy (automation & scripting basics)
 
-Focus areas:
+Focus areas:  
 👉 Azure Administrator (AZ-104)  
 👉 Infrastructure as Code (Terraform / Bicep)  
 👉 Cloud Security fundamentals  
