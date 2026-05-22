@@ -1,7 +1,7 @@
 # Hey, I’m Sven Velleman 👋
 
 Junior IT Support | System Administrator | Cloud & Infrastructure Engineer (in progress)  
-Azure • Microsoft 365 • Windows Server • Networking • Virtualization • Automation
+Azure • Microsoft 365 • Windows Server • Networking • Security • Automation • PowerShell • IaC • Cloud Labs
 
 📍 Moerbeke-Waas, Belgium  
 📧 sven.velleman@svenitguy.be  
